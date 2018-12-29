@@ -1,0 +1,123 @@
+{
+  "Home": {
+    "name": "莫小龙",
+    "headimg":"img/profile-pic.jpg",
+    "position":"<b>前端工程师</b>",
+    "text": "性别:男  坐标:上海  学历:本科<br/>职业专长:tree.js、krpano、openlayers... <br/>业余专长:ps、pr...",
+    "contact": [
+      {
+        "icon": "<i class='fa fa-github'></i>",
+        "href":"https://github.com/taidragon"
+      },
+      {
+        "icon": "博",
+        "href":"http://www.cnblogs.com/s313139232/"
+      }
+    ]
+  },
+  "AboutMe": {
+    "h2":"关于我",
+    "h6":"About Me",
+    "barWrapperLeft":[
+      {
+        "title":"VUE",
+        "Percentage":90
+      },
+      {
+        "title":"React",
+        "Percentage":75
+      },
+      {
+        "title":"AngularJS",
+        "Percentage":85
+      },
+      {
+        "title":"Three.js",
+        "Percentage":75
+      },
+      {
+        "title":"Krpano",
+        "Percentage":85
+      },
+      {
+        "title":"OpenLayer",
+        "Percentage":60
+      }
+
+    ],
+    "barWrapperRight":[
+      {
+        "title":"C#",
+        "Percentage":55
+      },
+      {
+        "title":"SQL Server",
+        "Percentage":75
+      },
+      {
+        "title":"Ps",
+        "Percentage":85
+      },
+      {
+        "title":"Pr",
+        "Percentage":85
+      },
+      {
+        "title":"3D Max",
+        "Percentage":30
+      }
+    ]
+  },
+  "Portfolio": {
+    "h2":"项目",
+    "h6":"持续更新中...",
+    "tab":[
+      {
+        "datafilter":"*",
+        "h5":"ALL"
+      },
+      {
+        "datafilter":".vue",
+        "h5":"VUE"
+      },
+      {
+        "datafilter":".angularjs",
+        "h5":"Angularjs"
+      },
+      {
+        "datafilter":".three",
+        "h5":"THREE"
+      },
+      {
+        "datafilter":".krpano",
+        "h5":"360°全景"
+      },
+      {
+        "datafilter":".gis",
+        "h5":"GIS"
+      }
+    ],
+    "prots":[
+      {
+        "title":"<span>XMUI</span>",
+        "datafilter":"vue",
+        "img":"img/portfolio_pic1.jpg",
+        "href":"https://taidragon.github.io/XMUI/#/",
+        "text":"VUE插件库，科技向UI库，制作中。"
+      }
+    ]
+  },
+  "Experience": {
+    "h2":"日志",
+    "h6":"日志记录",
+    "expers":[
+      {
+        "id":"m1",
+        "title":"发布VUE插件库，XMUI v1.0.0",
+        "date":"2018-12-26",
+        "text":"发布XMUI首个版本，包含6个组件。"
+      }
+    ]
+  },
+  "footer": "Copyright &copy; 2017.莫小龙"
+}
