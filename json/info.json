@@ -104,13 +104,25 @@
         "img":"img/portfolio_pic1.jpg",
         "href":"https://taidragon.github.io/XMUI/#/",
         "text":"VUE插件库，科技向UI库，制作中。"
+      },
+      {
+        "title":"<span>XMvrplayer</span>",
+        "datafilter":"three",
+        "img":"img/portfolio_pic2.jpg",
+        "href":"https://taidragon.github.io/XMvrpalyer/",
+        "text":"基于three.js制作的全景视频播放器。"
       }
     ]
   },
   "Experience": {
     "h2":"日志",
     "h6":"日志记录",
-    "expers":[
+    "expers":[{
+        "id":"m2",
+        "title":"发布全景视频播放器XMvrplayer",
+        "date":"2019-1-4",
+        "text":"发布全景视频播放器XMvrplayer，制作于2018-1-5，插件只需引入对应js、css即可使用。"
+      },
       {
         "id":"m1",
         "title":"发布VUE插件库，XMUI v1.0.0",
