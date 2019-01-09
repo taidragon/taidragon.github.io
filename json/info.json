@@ -106,6 +106,20 @@
         "text":"VUE插件库，科技向UI库，制作中。"
       },
       {
+        "title":"<span>上海抛物线信息科技有限公司官网</span>",
+        "datafilter":"angularjs",
+        "img":"img/prbc_pwxvr.jpg",
+        "href":"http://pwxvr.com/#/",
+        "text":"企业网站，使用angularjs独立完成。"
+      },
+      {
+        "title":"<span>华东师范大学360°全景展示</span>",
+        "datafilter":"krpano",
+        "img":"img/prbc_hsd.jpg",
+        "href":"http://frp.pwxvr.com:8080/huashida/index.html",
+        "text":"手机端全景展示项目，独立完成从摄影到前端制作全过程，摄影设备为得图P4，图片效果不理想。"
+      },
+      {
         "title":"<span>XMvrplayer</span>",
         "datafilter":"three",
         "img":"img/portfolio_pic2.jpg",
@@ -117,7 +131,14 @@
   "Experience": {
     "h2":"日志",
     "h6":"日志记录",
-    "expers":[{
+    "expers":[
+      {
+        "id":"m3",
+        "title":"链接曾完成项目。",
+        "date":"2019-1-9",
+        "text":"链接曾完成项目，上海抛物线信息科技有限公司官网，华师大360°全景展示。"
+      },
+      {
         "id":"m2",
         "title":"发布全景视频播放器XMvrplayer",
         "date":"2019-1-4",
@@ -137,5 +158,5 @@
       }
     ]
   },
-  "footer": "Copyright &copy; 2017.莫小龙"
+  "footer": "Copyright &copy; 2018.莫小龙"
 }
