@@ -3,7 +3,7 @@
     "name": "莫小龙",
     "headimg":"img/profile-pic.jpg",
     "position":"<b>前端工程师</b>",
-    "text": "性别:男  坐标:上海  学历:本科<br/>职业专长:tree.js、krpano、openlayers... <br/>业余专长:ps、pr...",
+    "text": "性别:男  坐标:上海  学历:本科<br/>职业专长:vue、tree.js、krpano、openlayers... <br/>业余专长:ps、pr...",
     "contact": [
       {
         "icon": "<i class='fa fa-github'></i>",
@@ -99,11 +99,11 @@
     ],
     "prots":[
       {
-        "title":"<span>XMUI</span>",
+        "title":"<span>VUE组件库<br/>XMUI</span>",
         "datafilter":"vue",
         "img":"img/prbc_XMUI.jpg",
         "href":"https://taidragon.github.io/XMUI/#/",
-        "text":"VUE插件库，科技向UI库，制作中。"
+        "text":"VUE组件库，科技向UI库，制作中。"
       },
       {
         "title":"<span>上海抛物线信息科技有限公司官网</span>",
@@ -120,7 +120,7 @@
         "text":"手机端全景展示项目，独立完成从摄影到前端制作全过程，摄影设备为得图P4，图片效果不理想。"
       },
       {
-        "title":"<span>XMvrplayer</span>",
+        "title":"<span>全景播放器<br/>XMvrplayer</span>",
         "datafilter":"three",
         "img":"img/portfolio_pic2.jpg",
         "href":"https://taidragon.github.io/XMvrpalyer/",
